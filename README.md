@@ -20,7 +20,7 @@ Bounding Boxes & Labels: Object ID + area in pixels
 
 
 
-How to run:
+# How to run:
 
 # Clone repository
 git clone https://github.com/Phoenixx-cv1/ClassicSegmenter.git
